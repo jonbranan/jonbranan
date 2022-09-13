@@ -11,4 +11,4 @@ Welcome to Jonathan Branan's profile!
 - My favorite 🎥's are the Oceans Trilogy
 - My favorite sport is 🏀
 
-I enjoy using setting up self-hosted services on docker and like to code in python in my freetime.
+I enjoy setting up self-hosted services on docker and like to code in python in my freetime.
