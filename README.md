@@ -1,47 +1,8 @@
 <!-- terminal:start -->
-<pre><span style="color:#22c55e">jonathan@core</span>:<span style="color:#38bdf8">~</span><span style="color:#7c8798">$</span> whoami
-Jonathan Branan — <span style="color:#f59e0b">technical account manager</span> at Teramind
-
-<span style="color:#22c55e">jonathan@core</span>:<span style="color:#38bdf8">~</span><span style="color:#7c8798">$</span> uptime
-up <span style="color:#f59e0b">7</span> hosts · <span style="color:#f59e0b">76</span> stacks · <span style="color:#f59e0b">1</span> very patient wife
-
-<span style="color:#22c55e">jonathan@core</span>:<span style="color:#38bdf8">~</span><span style="color:#7c8798">$</span> traceroute jonb.io
-<span style="color:#7c8798">traceroute to jonb.io (198.23.237.22), 30 hops max, 60 byte packets</span>
-<span style="color:#7c8798"> 1</span>  <span style="color:#38bdf8">internet          </span><span style="color:#7c8798">  0.412 ms   0.388 ms   0.401 ms</span>
-<span style="color:#7c8798"> 2</span>  <span style="color:#38bdf8">cloudflare        </span><span style="color:#7c8798">  1.204 ms   1.188 ms   1.231 ms</span>
-<span style="color:#7c8798"> 3</span>  <span style="color:#38bdf8">pangolin (vps)    </span><span style="color:#7c8798">  8.771 ms   8.640 ms   8.902 ms</span>
-<span style="color:#7c8798"> 4</span>  <span style="color:#38bdf8">newt tunnel       </span><span style="color:#7c8798"> 12.338 ms  12.201 ms  12.455 ms</span>
-<span style="color:#7c8798"> 5</span>  <span style="color:#38bdf8">core              </span><span style="color:#7c8798"> 12.902 ms  12.744 ms  12.988 ms</span>
-<span style="color:#7c8798"> 6</span>  <span style="color:#38bdf8">container         </span><span style="color:#7c8798"> 13.115 ms  13.002 ms  13.240 ms</span>
-
-<span style="color:#22c55e">jonathan@core</span>:<span style="color:#38bdf8">~</span><span style="color:#7c8798">$</span> man jonathan
-<span style="color:#7c8798">JONATHAN(1)           General Commands Manual          JONATHAN(1)</span>
-
-<span style="color:#38bdf8">NAME</span>
-       jonathan - software engineer, mostly self-taught
-
-<span style="color:#38bdf8">SYNOPSIS</span>
-       jonathan [--homelab] [--family] [--travel]
-
-<span style="color:#38bdf8">DESCRIPTION</span>
-       Jonathan Branan is a Software Engineer.  He is mostly
-       self-taught, though he did attend a vocational class at
-       Rackspace Open Cloud Academy.  He has worked for Geek
-       Squad repairing computers, GlobalScape as a Lead of the
-       Client Services department, a Product Owner of MFT
-       applications, and as a Software Engineer at Fortra.  He
-       is currently a Technical Account Manager at Teramind.
-
-<span style="color:#38bdf8">ENVIRONMENT</span>
-       HOME      San Antonio, TX - wife, daughter, two dogs
-       HOBBIES   basketball, video games, cooking, camping,
-                 kayaking, movies, mixed drinks, Lego
-       TRAVEL    frequently, with his wife
-
-<span style="color:#38bdf8">SEE ALSO</span>
-       git(1), docker(1), journalctl(1)
-
-<span style="color:#7c8798">                                                       JONATHAN(1)</span></pre>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="terminal-dark.svg">
+  <img src="terminal-light.svg" width="622" alt="Terminal card: whoami, uptime, traceroute jonb.io, man jonathan">
+</picture>
 <!-- terminal:end -->
 
 <!-- status:start -->

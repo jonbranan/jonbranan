@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="622" height="943" viewBox="0 0 622 943" role="img" aria-label="jonathan@core terminal card">
+<rect width="622" height="943" rx="10" fill="#0d1117"/>
+<g font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace' font-size="14">
+<text x="20" y="31.9" xml:space="preserve"><tspan fill="#22c55e">jonathan@core</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#7c8798">$</tspan><tspan fill="#c9d1d9"> whoami</tspan></text>
+<text x="20" y="52.9" xml:space="preserve"><tspan fill="#c9d1d9">Jonathan Branan — </tspan><tspan fill="#f59e0b">technical account manager</tspan><tspan fill="#c9d1d9"> at Teramind</tspan></text>
+<text x="20" y="94.9" xml:space="preserve"><tspan fill="#22c55e">jonathan@core</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#7c8798">$</tspan><tspan fill="#c9d1d9"> uptime</tspan></text>
+<text x="20" y="115.9" xml:space="preserve"><tspan fill="#c9d1d9">up </tspan><tspan fill="#f59e0b">7</tspan><tspan fill="#c9d1d9"> hosts · </tspan><tspan fill="#f59e0b">76</tspan><tspan fill="#c9d1d9"> stacks · </tspan><tspan fill="#f59e0b">1</tspan><tspan fill="#c9d1d9"> very patient wife</tspan></text>
+<text x="20" y="157.9" xml:space="preserve"><tspan fill="#22c55e">jonathan@core</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#7c8798">$</tspan><tspan fill="#c9d1d9"> traceroute jonb.io</tspan></text>
+<text x="20" y="178.9" xml:space="preserve"><tspan fill="#7c8798">traceroute to jonb.io (198.23.237.22), 30 hops max, 60 byte packets</tspan></text>
+<text x="20" y="199.9" xml:space="preserve"><tspan fill="#7c8798"> 1</tspan><tspan fill="#c9d1d9">  </tspan><tspan fill="#38bdf8">internet          </tspan><tspan fill="#7c8798">  0.412 ms   0.388 ms   0.401 ms</tspan></text>
+<text x="20" y="220.9" xml:space="preserve"><tspan fill="#7c8798"> 2</tspan><tspan fill="#c9d1d9">  </tspan><tspan fill="#38bdf8">cloudflare        </tspan><tspan fill="#7c8798">  1.204 ms   1.188 ms   1.231 ms</tspan></text>
+<text x="20" y="241.9" xml:space="preserve"><tspan fill="#7c8798"> 3</tspan><tspan fill="#c9d1d9">  </tspan><tspan fill="#38bdf8">pangolin (vps)    </tspan><tspan fill="#7c8798">  8.771 ms   8.640 ms   8.902 ms</tspan></text>
+<text x="20" y="262.9" xml:space="preserve"><tspan fill="#7c8798"> 4</tspan><tspan fill="#c9d1d9">  </tspan><tspan fill="#38bdf8">newt tunnel       </tspan><tspan fill="#7c8798"> 12.338 ms  12.201 ms  12.455 ms</tspan></text>
+<text x="20" y="283.9" xml:space="preserve"><tspan fill="#7c8798"> 5</tspan><tspan fill="#c9d1d9">  </tspan><tspan fill="#38bdf8">core              </tspan><tspan fill="#7c8798"> 12.902 ms  12.744 ms  12.988 ms</tspan></text>
+<text x="20" y="304.9" xml:space="preserve"><tspan fill="#7c8798"> 6</tspan><tspan fill="#c9d1d9">  </tspan><tspan fill="#38bdf8">container         </tspan><tspan fill="#7c8798"> 13.115 ms  13.002 ms  13.240 ms</tspan></text>
+<text x="20" y="346.9" xml:space="preserve"><tspan fill="#22c55e">jonathan@core</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#7c8798">$</tspan><tspan fill="#c9d1d9"> man jonathan</tspan></text>
+<text x="20" y="367.9" xml:space="preserve"><tspan fill="#7c8798">JONATHAN(1)           General Commands Manual          JONATHAN(1)</tspan></text>
+<text x="20" y="409.9" xml:space="preserve"><tspan fill="#38bdf8">NAME</tspan></text>
+<text x="20" y="430.9" xml:space="preserve"><tspan fill="#c9d1d9">       jonathan - software engineer, mostly self-taught</tspan></text>
+<text x="20" y="472.9" xml:space="preserve"><tspan fill="#38bdf8">SYNOPSIS</tspan></text>
+<text x="20" y="493.9" xml:space="preserve"><tspan fill="#c9d1d9">       jonathan [--homelab] [--family] [--travel]</tspan></text>
+<text x="20" y="535.9" xml:space="preserve"><tspan fill="#38bdf8">DESCRIPTION</tspan></text>
+<text x="20" y="556.9" xml:space="preserve"><tspan fill="#c9d1d9">       Jonathan Branan is a Software Engineer.  He is mostly</tspan></text>
+<text x="20" y="577.9" xml:space="preserve"><tspan fill="#c9d1d9">       self-taught, though he did attend a vocational class at</tspan></text>
+<text x="20" y="598.9" xml:space="preserve"><tspan fill="#c9d1d9">       Rackspace Open Cloud Academy.  He has worked for Geek</tspan></text>
+<text x="20" y="619.9" xml:space="preserve"><tspan fill="#c9d1d9">       Squad repairing computers, GlobalScape as a Lead of the</tspan></text>
+<text x="20" y="640.9" xml:space="preserve"><tspan fill="#c9d1d9">       Client Services department, a Product Owner of MFT</tspan></text>
+<text x="20" y="661.9" xml:space="preserve"><tspan fill="#c9d1d9">       applications, and as a Software Engineer at Fortra.  He</tspan></text>
+<text x="20" y="682.9" xml:space="preserve"><tspan fill="#c9d1d9">       is currently a Technical Account Manager at Teramind.</tspan></text>
+<text x="20" y="724.9" xml:space="preserve"><tspan fill="#38bdf8">ENVIRONMENT</tspan></text>
+<text x="20" y="745.9" xml:space="preserve"><tspan fill="#c9d1d9">       HOME      San Antonio, TX - wife, daughter, two dogs</tspan></text>
+<text x="20" y="766.9" xml:space="preserve"><tspan fill="#c9d1d9">       HOBBIES   basketball, video games, cooking, camping,</tspan></text>
+<text x="20" y="787.9" xml:space="preserve"><tspan fill="#c9d1d9">                 kayaking, movies, mixed drinks, Lego</tspan></text>
+<text x="20" y="808.9" xml:space="preserve"><tspan fill="#c9d1d9">       TRAVEL    frequently, with his wife</tspan></text>
+<text x="20" y="850.9" xml:space="preserve"><tspan fill="#38bdf8">SEE ALSO</tspan></text>
+<text x="20" y="871.9" xml:space="preserve"><tspan fill="#c9d1d9">       git(1), docker(1), journalctl(1)</tspan></text>
+<text x="20" y="913.9" xml:space="preserve"><tspan fill="#7c8798">                                                       JONATHAN(1)</tspan></text>
+</g>
+</svg>
