@@ -1,0 +1,68 @@
+name: readme
+
+# Regenerates the self-updating blocks in README.md on GitHub.
+#
+# The generator is not copied here: this job clones the public Gitea repo
+# (git.jonb.io/jblu/.profile) and runs tools/gen_readme.py from there, so the
+# code lives in exactly one place. Every data source is reached over its public
+# FQDN, so nothing internal is needed:
+#
+#   git.jonb.io   Gitea API (anonymous is enough for the public repos)
+#   k.jonb.io     Komodo
+#   todo.jonb.io  Vikunja
+#   up.jonb.io    Uptime Kuma
+#
+# Repo secrets, both optional - a missing one keeps the previous block text:
+#   KOMODO_API_KEY / KOMODO_API_SECRET
+#   VIKUNJA_TOKEN
+#
+# This same file also sits in the Gitea repo, where Gitea Actions would pick it
+# up; the `github.repository` guard keeps it from running there.
+#
+# Cron is UTC: 10:00 UTC = 04:00 CST.
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/readme.yml"
+
+jobs:
+  refresh:
+    if: github.repository == 'jonbranan/jonbranan'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch generator from git.jonb.io
+        run: git clone --depth 1 https://git.jonb.io/jblu/.profile.git /tmp/src
+
+      - name: Regenerate
+        env:
+          KOMODO_API_KEY: ${{ secrets.KOMODO_API_KEY }}
+          KOMODO_API_SECRET: ${{ secrets.KOMODO_API_SECRET }}
+          VIKUNJA_TOKEN: ${{ secrets.VIKUNJA_TOKEN }}
+        run: |
+          python3 /tmp/src/tools/gen_readme.py --write
+          cp /tmp/src/README.md README.md
+
+      - name: Check links are public
+        run: python3 /tmp/src/tools/gen_readme.py --check-links
+
+      - name: Commit
+        run: |
+          git config user.name trex
+          git config user.email nanobot@jonb.io
+          git add README.md
+          if git diff --cached --quiet; then
+            echo "no change"
+            exit 0
+          fi
+          git commit -m "chore: refresh profile README"
+          git push
