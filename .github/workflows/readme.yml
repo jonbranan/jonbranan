@@ -49,8 +49,12 @@ jobs:
           KOMODO_API_SECRET: ${{ secrets.KOMODO_API_SECRET }}
           VIKUNJA_TOKEN: ${{ secrets.VIKUNJA_TOKEN }}
         run: |
-          python3 /tmp/src/tools/gen_readme.py --write
+          # GitHub's sanitizer strips style/class/inline <svg>, so the coloured
+          # terminal card ships as a committed SVG behind <picture> instead of
+          # the inline <pre> Gitea gets.
+          python3 /tmp/src/tools/gen_readme.py --write --svg /tmp/svg --terminal-image
           cp /tmp/src/README.md README.md
+          cp /tmp/svg/terminal-dark.svg /tmp/svg/terminal-light.svg .
 
       - name: Check links are public
         run: python3 /tmp/src/tools/gen_readme.py --check-links
@@ -59,7 +63,7 @@ jobs:
         run: |
           git config user.name trex
           git config user.email nanobot@jonb.io
-          git add README.md
+          git add README.md terminal-dark.svg terminal-light.svg
           if git diff --cached --quiet; then
             echo "no change"
             exit 0
