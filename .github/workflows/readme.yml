@@ -63,6 +63,12 @@ jobs:
         run: |
           git config user.name trex
           git config user.email nanobot@jonb.io
+          # Re-running an older run checks out that run's head SHA, which can be
+          # behind main, so a plain push is rejected as non-fast-forward. Move
+          # HEAD to the current tip first; the regenerated files are
+          # authoritative, so they are re-staged on top of it.
+          git fetch --quiet origin main
+          git reset --quiet origin/main
           git add README.md terminal-dark.svg terminal-light.svg
           if git diff --cached --quiet; then
             echo "no change"
