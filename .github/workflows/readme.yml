@@ -19,11 +19,13 @@ name: readme
 # This same file also sits in the Gitea repo, where Gitea Actions would pick it
 # up; the `github.repository` guard keeps it from running there.
 #
-# Cron is UTC: 10:00 UTC = 04:00 CST.
+# Cron is UTC: 10:23 UTC = 04:23 CST. Deliberately off the top of the hour -
+# GitHub drops queued schedule jobs at peak load, and the start of every hour
+# is peak (docs: "Events that trigger workflows" -> schedule).
 
 on:
   schedule:
-    - cron: "0 10 * * *"
+    - cron: "23 10 * * *"
   workflow_dispatch:
   push:
     branches: [main]
