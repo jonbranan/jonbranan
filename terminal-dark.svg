@@ -16,7 +16,7 @@
 <text x="20" y="346.9" xml:space="preserve"><tspan fill="#22c55e">jonathan@core</tspan><tspan fill="#c9d1d9">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#7c8798">$</tspan><tspan fill="#c9d1d9"> man jonathan</tspan></text>
 <text x="20" y="367.9" xml:space="preserve"><tspan fill="#7c8798">JONATHAN(1)           General Commands Manual          JONATHAN(1)</tspan></text>
 <text x="20" y="409.9" xml:space="preserve"><tspan fill="#38bdf8">NAME</tspan></text>
-<text x="20" y="430.9" xml:space="preserve"><tspan fill="#c9d1d9">       jonathan - software engineer, mostly self-taught</tspan></text>
+<text x="20" y="430.9" xml:space="preserve"><tspan fill="#c9d1d9">       jonathan - software engineer</tspan></text>
 <text x="20" y="472.9" xml:space="preserve"><tspan fill="#38bdf8">SYNOPSIS</tspan></text>
 <text x="20" y="493.9" xml:space="preserve"><tspan fill="#c9d1d9">       jonathan [--homelab] [--family] [--travel]</tspan></text>
 <text x="20" y="535.9" xml:space="preserve"><tspan fill="#38bdf8">DESCRIPTION</tspan></text>
