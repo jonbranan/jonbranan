@@ -6,7 +6,7 @@
 <!-- terminal:end -->
 
 <!-- status:start -->
-<span style="color:#f59e0b">◐</span> 77/78 services up · <span style="color:#7c8798">refreshed daily</span>
+<span style="color:#22c55e">●</span> 76/76 services up · <span style="color:#7c8798">refreshed daily</span>
 <!-- status:end -->
 
 [LinkedIn](https://www.linkedin.com/in/jonathanbranan/) · [GitHub](https://github.com/jonbranan) · [Résumé](https://s3.jonb.io/cdn/author/Resume.pdf) · [git.jonb.io](https://git.jonb.io/jblu) · [up.jonb.io](https://up.jonb.io)
@@ -15,24 +15,24 @@
 
 <!-- working-on:start -->
 - [**qbit-maid**](https://git.jonb.io/jblu/qbit-maid) — Qbittorrent cleaner that deletes torrents based on age, categories, domains and tags. · `v3.0.0`
-- [**jonbio**](https://git.jonb.io/jblu/jonbio) — TypeScript · updated 30m ago
+- [**jonbio**](https://git.jonb.io/jblu/jonbio) — TypeScript · updated 3h ago
 - [**crane**](https://git.jonb.io/jblu/crane) — App to make sure specified containers are running in portainer
 <!-- working-on:end -->
 
 ## Recent activity
 
 <!-- activity:start -->
-- [chore: remove unreferenced twitter-card-old.png](https://git.jonb.io/jblu/jonbio/commit/971ae99c9a9cb95a9a11549a6ca69cc2c844d0aa) — jonbio · 33m ago
-- [fix(blog): update tags for Markdown Guide to include additional…](https://git.jonb.io/jblu/jonbio/commit/d10e245b6247c5838bc124c6fdb416f430f03afd) — jonbio · 59m ago
-- [fix(theme): everforest colors for the OG card and web manifest](https://git.jonb.io/jblu/jonbio/commit/0c30fabed2710318391020a26d9d6fd376f56cab) — jonbio · 1h ago
+- [chore: remove unreferenced twitter-card-old.png](https://git.jonb.io/jblu/jonbio/commit/971ae99c9a9cb95a9a11549a6ca69cc2c844d0aa) — jonbio · 3h ago
+- [fix(blog): update tags for Markdown Guide to include additional…](https://git.jonb.io/jblu/jonbio/commit/d10e245b6247c5838bc124c6fdb416f430f03afd) — jonbio · 3h ago
+- [fix(theme): everforest colors for the OG card and web manifest](https://git.jonb.io/jblu/jonbio/commit/0c30fabed2710318391020a26d9d6fd376f56cab) — jonbio · 4h ago
 <!-- activity:end -->
 
 ## Recent pull requests
 
 <!-- prs:start -->
-- [chore: remove unreferenced twitter-card-old.png](https://git.jonb.io/jblu/jonbio/pulls/12) — jonbio · 32m ago
-- [fix(theme): everforest colors for the OG card and web manifest](https://git.jonb.io/jblu/jonbio/pulls/11) — jonbio · 1h ago
-- [fix(favicons): recolor site icons to everforest accent](https://git.jonb.io/jblu/jonbio/pulls/10) — jonbio · 1h ago
+- [chore: remove unreferenced twitter-card-old.png](https://git.jonb.io/jblu/jonbio/pulls/12) — jonbio · 3h ago
+- [fix(theme): everforest colors for the OG card and web manifest](https://git.jonb.io/jblu/jonbio/pulls/11) — jonbio · 4h ago
+- [fix(favicons): recolor site icons to everforest accent](https://git.jonb.io/jblu/jonbio/pulls/10) — jonbio · 4h ago
 <!-- prs:end -->
 
 ## Recently completed
