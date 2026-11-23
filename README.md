@@ -6,7 +6,7 @@
 <!-- terminal:end -->
 
 <!-- status:start -->
-<span style="color:#f59e0b">◐</span> 75/76 services up · <span style="color:#7c8798">refreshed daily</span>
+<span style="color:#f59e0b">◐</span> 77/78 services up · <span style="color:#7c8798">refreshed daily</span>
 <!-- status:end -->
 
 [LinkedIn](https://www.linkedin.com/in/jonathanbranan/) · [GitHub](https://github.com/jonbranan) · [Résumé](https://s3.jonb.io/cdn/author/Resume.pdf) · [git.jonb.io](https://git.jonb.io/jblu) · [up.jonb.io](https://up.jonb.io)
@@ -15,31 +15,31 @@
 
 <!-- working-on:start -->
 - [**qbit-maid**](https://git.jonb.io/jblu/qbit-maid) — Qbittorrent cleaner that deletes torrents based on age, categories, domains and tags. · `v3.0.0`
-- [**jonbio**](https://git.jonb.io/jblu/jonbio) — TypeScript · updated 9h ago
+- [**jonbio**](https://git.jonb.io/jblu/jonbio) — TypeScript · updated 30m ago
 - [**crane**](https://git.jonb.io/jblu/crane) — App to make sure specified containers are running in portainer
 <!-- working-on:end -->
 
 ## Recent activity
 
 <!-- activity:start -->
-- [fix(blog): correct layout type in connecting-to-rc-tv.mdx](https://git.jonb.io/jblu/jonbio/commit/fec816ecb3428e9200d5e8d7ed7628de80c6f73d) — jonbio · 9h ago
-- [feat(blog): update ImageCarousel with descriptive alt text and…](https://git.jonb.io/jblu/jonbio/commit/28dfbfc02a163148c1d189ae50021117f5a5e2fb) — jonbio · 10h ago
-- [feat(blog): add ImageCarousel for visual guidance on TV connect…](https://git.jonb.io/jblu/jonbio/commit/244cb47a2667c8b45ecc72f8a1ee1ebcbe2c980d) — jonbio · 10h ago
+- [chore: remove unreferenced twitter-card-old.png](https://git.jonb.io/jblu/jonbio/commit/971ae99c9a9cb95a9a11549a6ca69cc2c844d0aa) — jonbio · 33m ago
+- [fix(blog): update tags for Markdown Guide to include additional…](https://git.jonb.io/jblu/jonbio/commit/d10e245b6247c5838bc124c6fdb416f430f03afd) — jonbio · 59m ago
+- [fix(theme): everforest colors for the OG card and web manifest](https://git.jonb.io/jblu/jonbio/commit/0c30fabed2710318391020a26d9d6fd376f56cab) — jonbio · 1h ago
 <!-- activity:end -->
 
 ## Recent pull requests
 
 <!-- prs:start -->
-- [feat(mdx): add ImageCarousel component for post galleries](https://git.jonb.io/jblu/jonbio/pulls/9) — jonbio · 10h ago
-- [feat(projects): expand projects page to seven entries](https://git.jonb.io/jblu/jonbio/pulls/8) — jonbio · 1d ago
-- [fix(likes): stack rows on mobile](https://git.jonb.io/jblu/jonbio/pulls/7) — jonbio · 2d ago
+- [chore: remove unreferenced twitter-card-old.png](https://git.jonb.io/jblu/jonbio/pulls/12) — jonbio · 32m ago
+- [fix(theme): everforest colors for the OG card and web manifest](https://git.jonb.io/jblu/jonbio/pulls/11) — jonbio · 1h ago
+- [fix(favicons): recolor site icons to everforest accent](https://git.jonb.io/jblu/jonbio/pulls/10) — jonbio · 1h ago
 <!-- prs:end -->
 
 ## Recently completed
 
 <!-- completed:start -->
 - Approve email backfill plan for lldap users mike and Jen · 4d ago
-- add portainer, filebrowser and ipam into homepage · 17d ago
+- add portainer, filebrowser and ipam into homepage · 18d ago
 - Set up mail server for jonb.io · 1mo ago
 <!-- completed:end -->
 

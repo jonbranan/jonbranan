@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="622" height="943" viewBox="0 0 622 943" role="img" aria-label="jonathan@core terminal card">
-<rect width="622" height="943" rx="10" fill="#f6f8fa"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="622" height="922" viewBox="0 0 622 922" role="img" aria-label="jonathan@core terminal card">
+<rect width="622" height="922" rx="10" fill="#f6f8fa"/>
 <g font-family='ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace' font-size="14">
 <text x="20" y="31.9" xml:space="preserve"><tspan fill="#22c55e">jonathan@core</tspan><tspan fill="#1f2328">:</tspan><tspan fill="#38bdf8">~</tspan><tspan fill="#7c8798">$</tspan><tspan fill="#1f2328"> whoami</tspan></text>
 <text x="20" y="52.9" xml:space="preserve"><tspan fill="#1f2328">Jonathan Branan — </tspan><tspan fill="#f59e0b">technical account manager</tspan><tspan fill="#1f2328"> at Teramind</tspan></text>
@@ -20,20 +20,19 @@
 <text x="20" y="472.9" xml:space="preserve"><tspan fill="#38bdf8">SYNOPSIS</tspan></text>
 <text x="20" y="493.9" xml:space="preserve"><tspan fill="#1f2328">       jonathan [--homelab] [--family] [--travel]</tspan></text>
 <text x="20" y="535.9" xml:space="preserve"><tspan fill="#38bdf8">DESCRIPTION</tspan></text>
-<text x="20" y="556.9" xml:space="preserve"><tspan fill="#1f2328">       Jonathan Branan is a Software Engineer.  He is mostly</tspan></text>
-<text x="20" y="577.9" xml:space="preserve"><tspan fill="#1f2328">       self-taught, though he did attend a vocational class at</tspan></text>
-<text x="20" y="598.9" xml:space="preserve"><tspan fill="#1f2328">       Rackspace Open Cloud Academy.  He has worked for Geek</tspan></text>
-<text x="20" y="619.9" xml:space="preserve"><tspan fill="#1f2328">       Squad repairing computers, GlobalScape as a Lead of the</tspan></text>
-<text x="20" y="640.9" xml:space="preserve"><tspan fill="#1f2328">       Client Services department, a Product Owner of MFT</tspan></text>
-<text x="20" y="661.9" xml:space="preserve"><tspan fill="#1f2328">       applications, and as a Software Engineer at Fortra.  He</tspan></text>
-<text x="20" y="682.9" xml:space="preserve"><tspan fill="#1f2328">       is currently a Technical Account Manager at Teramind.</tspan></text>
-<text x="20" y="724.9" xml:space="preserve"><tspan fill="#38bdf8">ENVIRONMENT</tspan></text>
-<text x="20" y="745.9" xml:space="preserve"><tspan fill="#1f2328">       HOME      San Antonio, TX - wife, daughter, two dogs</tspan></text>
-<text x="20" y="766.9" xml:space="preserve"><tspan fill="#1f2328">       HOBBIES   basketball, video games, cooking, camping,</tspan></text>
-<text x="20" y="787.9" xml:space="preserve"><tspan fill="#1f2328">                 kayaking, movies, mixed drinks, Lego</tspan></text>
-<text x="20" y="808.9" xml:space="preserve"><tspan fill="#1f2328">       TRAVEL    frequently, with his wife</tspan></text>
-<text x="20" y="850.9" xml:space="preserve"><tspan fill="#38bdf8">SEE ALSO</tspan></text>
-<text x="20" y="871.9" xml:space="preserve"><tspan fill="#1f2328">       git(1), docker(1), journalctl(1)</tspan></text>
-<text x="20" y="913.9" xml:space="preserve"><tspan fill="#7c8798">                                                       JONATHAN(1)</tspan></text>
+<text x="20" y="556.9" xml:space="preserve"><tspan fill="#1f2328">       Jonathan Branan is a Software Engineer.  He has</tspan></text>
+<text x="20" y="577.9" xml:space="preserve"><tspan fill="#1f2328">       worked for Geek Squad repairing computers,</tspan></text>
+<text x="20" y="598.9" xml:space="preserve"><tspan fill="#1f2328">       GlobalScape as a Lead of the Client Services</tspan></text>
+<text x="20" y="619.9" xml:space="preserve"><tspan fill="#1f2328">       department, a Product Owner of MFT applications,</tspan></text>
+<text x="20" y="640.9" xml:space="preserve"><tspan fill="#1f2328">       and as a Software Engineer at Fortra.  He is</tspan></text>
+<text x="20" y="661.9" xml:space="preserve"><tspan fill="#1f2328">       currently a Technical Account Manager at Teramind.</tspan></text>
+<text x="20" y="703.9" xml:space="preserve"><tspan fill="#38bdf8">ENVIRONMENT</tspan></text>
+<text x="20" y="724.9" xml:space="preserve"><tspan fill="#1f2328">       HOME      San Antonio, TX - wife, daughter, two dogs</tspan></text>
+<text x="20" y="745.9" xml:space="preserve"><tspan fill="#1f2328">       HOBBIES   basketball, video games, cooking, camping,</tspan></text>
+<text x="20" y="766.9" xml:space="preserve"><tspan fill="#1f2328">                 kayaking, movies, mixed drinks, Lego</tspan></text>
+<text x="20" y="787.9" xml:space="preserve"><tspan fill="#1f2328">       TRAVEL    frequently, with his wife</tspan></text>
+<text x="20" y="829.9" xml:space="preserve"><tspan fill="#38bdf8">SEE ALSO</tspan></text>
+<text x="20" y="850.9" xml:space="preserve"><tspan fill="#1f2328">       git(1), docker(1), journalctl(1)</tspan></text>
+<text x="20" y="892.9" xml:space="preserve"><tspan fill="#7c8798">                                                       JONATHAN(1)</tspan></text>
 </g>
 </svg>
