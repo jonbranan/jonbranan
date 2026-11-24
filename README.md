@@ -6,7 +6,7 @@
 <!-- terminal:end -->
 
 <!-- status:start -->
-<span style="color:#22c55e">●</span> 77/77 services up · <span style="color:#7c8798">refreshed daily</span>
+<span style="color:#22c55e">●</span> 78/78 services up · <span style="color:#7c8798">refreshed daily</span>
 <!-- status:end -->
 
 [LinkedIn](https://www.linkedin.com/in/jonathanbranan/) · [GitHub](https://github.com/jonbranan) · [Résumé](https://s3.jonb.io/cdn/author/Resume.pdf) · [git.jonb.io](https://git.jonb.io/jblu) · [up.jonb.io](https://up.jonb.io)
@@ -15,32 +15,32 @@
 
 <!-- working-on:start -->
 - [**qbit-maid**](https://git.jonb.io/jblu/qbit-maid) — Qbittorrent cleaner that deletes torrents based on age, categories, domains and tags. · `v3.0.0`
-- [**jonbio**](https://git.jonb.io/jblu/jonbio) — TypeScript · updated 15h ago
+- [**jonbio**](https://git.jonb.io/jblu/jonbio) — TypeScript · updated 1d ago
 - [**crane**](https://git.jonb.io/jblu/crane) — App to make sure specified containers are running in portainer
 <!-- working-on:end -->
 
 ## Recent activity
 
 <!-- activity:start -->
-- [fix(resume): restore the 'Effective experience as…' opener bull…](https://git.jonb.io/jblu/jonbio/commit/8fd7959f20a0a5c939d39146bb6c810d777544a2) — jonbio · 15h ago
-- [feat(resume): native /resume page built from JSON Resume data](https://git.jonb.io/jblu/jonbio/commit/fd3e983fd0276e9fe83ec0a8e335041460a0bf85) — jonbio · 16h ago
-- [fix: resolve the seven bugs pinned by the test audit (#67)](https://git.jonb.io/jblu/qbit-maid/commit/cc2d75c7778be19597403b485c1db0236b65797e) — qbit-maid · 19d ago
+- [fix(resume): restore the 'Effective experience as…' opener bull…](https://git.jonb.io/jblu/jonbio/commit/8fd7959f20a0a5c939d39146bb6c810d777544a2) — jonbio · 1d ago
+- [feat(resume): native /resume page built from JSON Resume data](https://git.jonb.io/jblu/jonbio/commit/fd3e983fd0276e9fe83ec0a8e335041460a0bf85) — jonbio · 1d ago
+- [fix: resolve the seven bugs pinned by the test audit (#67)](https://git.jonb.io/jblu/qbit-maid/commit/cc2d75c7778be19597403b485c1db0236b65797e) — qbit-maid · 20d ago
 <!-- activity:end -->
 
 ## Recent pull requests
 
 <!-- prs:start -->
-- [fix(resume): restore the "Effective experience as…" opener bull…](https://git.jonb.io/jblu/jonbio/pulls/14) — jonbio · 15h ago
-- [feat(resume): native /resume page built from JSON Resume data](https://git.jonb.io/jblu/jonbio/pulls/13) — jonbio · 16h ago
-- [chore: remove unreferenced twitter-card-old.png](https://git.jonb.io/jblu/jonbio/pulls/12) — jonbio · 21h ago
+- [fix(resume): restore the "Effective experience as…" opener bull…](https://git.jonb.io/jblu/jonbio/pulls/14) — jonbio · 1d ago
+- [feat(resume): native /resume page built from JSON Resume data](https://git.jonb.io/jblu/jonbio/pulls/13) — jonbio · 1d ago
+- [chore: remove unreferenced twitter-card-old.png](https://git.jonb.io/jblu/jonbio/pulls/12) — jonbio · 1d ago
 <!-- prs:end -->
 
 ## Recently completed
 
 <!-- completed:start -->
-- Approve email backfill plan for lldap users mike and Jen · 5d ago
-- add portainer, filebrowser and ipam into homepage · 18d ago
-- Set up mail server for jonb.io · 1mo ago
+- set up mail in vikunja · 1h ago
+- Decide on gating /v1/docs or rate limiting api.p.jonb.io · 21h ago
+- Decide which monitors to publish on the Kuma status page · 21h ago
 <!-- completed:end -->
 
 <sub>regenerated daily by [tools/gen_readme.py](https://git.jonb.io/jblu/.profile)</sub>
