@@ -1,7 +1,7 @@
 <!-- terminal:start -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="terminal-dark.svg">
-  <img src="terminal-light.svg" width="622" alt="Terminal card: whoami, uptime, traceroute jonb.io, man jonathan">
+  <img src="terminal-light.svg" width="639" alt="Terminal card: whoami, uptime, traceroute jonb.io, man jonathan">
 </picture>
 <!-- terminal:end -->
 
@@ -15,32 +15,32 @@
 
 <!-- working-on:start -->
 - [**qbit-maid**](https://git.jonb.io/jblu/qbit-maid) — Qbittorrent cleaner that deletes torrents based on age, categories, domains and tags. · `v3.0.0`
-- [**jonbio**](https://git.jonb.io/jblu/jonbio) — TypeScript · updated 2d ago
-- [**crane**](https://git.jonb.io/jblu/crane) — App to make sure specified containers are running in portainer
+- [**jonbio**](https://git.jonb.io/jblu/jonbio) — TypeScript · updated 59m ago
+- [**seafile-backup**](https://git.jonb.io/jblu/seafile-backup) — backup seafile data and mariadb database
 <!-- working-on:end -->
 
 ## Recent activity
 
 <!-- activity:start -->
-- [fix(resume): restore the 'Effective experience as…' opener bull…](https://git.jonb.io/jblu/jonbio/commit/8fd7959f20a0a5c939d39146bb6c810d777544a2) — jonbio · 2d ago
-- [feat(resume): native /resume page built from JSON Resume data](https://git.jonb.io/jblu/jonbio/commit/fd3e983fd0276e9fe83ec0a8e335041460a0bf85) — jonbio · 2d ago
-- [fix: resolve the seven bugs pinned by the test audit (#67)](https://git.jonb.io/jblu/qbit-maid/commit/cc2d75c7778be19597403b485c1db0236b65797e) — qbit-maid · 21d ago
+- [chore(projects): drop crane and apprise-client cards](https://git.jonb.io/jblu/jonbio/commit/6d833a65827acf6c801a0038bc5e96ec7d02c255) — jonbio · 59m ago
+- [chore: 2.1.1](https://git.jonb.io/jblu/seafile-backup/commit/df6284ca2ce5ed0bf5c239b1f2d95c5249cb4001) — seafile-backup · 15h ago
+- [fix: stable dump path so restic reuses a parent snapshot](https://git.jonb.io/jblu/seafile-backup/commit/5c009974c835a452b119a8cdf1de64ab335735d2) — seafile-backup · 16h ago
 <!-- activity:end -->
 
 ## Recent pull requests
 
 <!-- prs:start -->
-- [fix(resume): restore the "Effective experience as…" opener bull…](https://git.jonb.io/jblu/jonbio/pulls/14) — jonbio · 2d ago
-- [feat(resume): native /resume page built from JSON Resume data](https://git.jonb.io/jblu/jonbio/pulls/13) — jonbio · 2d ago
-- [chore: remove unreferenced twitter-card-old.png](https://git.jonb.io/jblu/jonbio/pulls/12) — jonbio · 2d ago
+- [chore(projects): drop crane and apprise-client cards](https://git.jonb.io/jblu/jonbio/pulls/15) — jonbio · 59m ago
+- [feat: schedule with busybox crond instead of supercronic](https://git.jonb.io/jblu/seafile-backup/pulls/3) — seafile-backup · 17h ago
+- [Rewrite as an online restic backup](https://git.jonb.io/jblu/seafile-backup/pulls/2) — seafile-backup · 1d ago
 <!-- prs:end -->
 
 ## Recently completed
 
 <!-- completed:start -->
+- Give nanobot a dedicated least-privilege Linux user on each host · 1h ago
 - set up mail in vikunja · 1d ago
 - Decide on gating /v1/docs or rate limiting api.p.jonb.io · 1d ago
-- Decide which monitors to publish on the Kuma status page · 1d ago
 <!-- completed:end -->
 
 <sub>regenerated daily by [tools/gen_readme.py](https://git.jonb.io/jblu/.profile)</sub>
