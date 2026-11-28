@@ -15,32 +15,32 @@
 
 <!-- working-on:start -->
 - [**qbit-maid**](https://git.jonb.io/jblu/qbit-maid) — Qbittorrent cleaner that deletes torrents based on age, categories, domains and tags. · `v3.0.0`
-- [**jonbio**](https://git.jonb.io/jblu/jonbio) — TypeScript · updated 1d ago
+- [**jonbio**](https://git.jonb.io/jblu/jonbio) — TypeScript · updated 2d ago
 - [**seafile-backup**](https://git.jonb.io/jblu/seafile-backup) — backup seafile data and mariadb database
 <!-- working-on:end -->
 
 ## Recent activity
 
 <!-- activity:start -->
-- [chore(projects): drop crane and apprise-client cards](https://git.jonb.io/jblu/jonbio/commit/6d833a65827acf6c801a0038bc5e96ec7d02c255) — jonbio · 1d ago
-- [chore: 2.1.1](https://git.jonb.io/jblu/seafile-backup/commit/df6284ca2ce5ed0bf5c239b1f2d95c5249cb4001) — seafile-backup · 2d ago
-- [fix: stable dump path so restic reuses a parent snapshot](https://git.jonb.io/jblu/seafile-backup/commit/5c009974c835a452b119a8cdf1de64ab335735d2) — seafile-backup · 2d ago
+- [chore(projects): drop crane and apprise-client cards](https://git.jonb.io/jblu/jonbio/commit/6d833a65827acf6c801a0038bc5e96ec7d02c255) — jonbio · 2d ago
+- [chore: 2.1.1](https://git.jonb.io/jblu/seafile-backup/commit/df6284ca2ce5ed0bf5c239b1f2d95c5249cb4001) — seafile-backup · 3d ago
+- [fix: stable dump path so restic reuses a parent snapshot](https://git.jonb.io/jblu/seafile-backup/commit/5c009974c835a452b119a8cdf1de64ab335735d2) — seafile-backup · 3d ago
 <!-- activity:end -->
 
 ## Recent pull requests
 
 <!-- prs:start -->
-- [chore(projects): drop crane and apprise-client cards](https://git.jonb.io/jblu/jonbio/pulls/15) — jonbio · 1d ago
-- [feat: schedule with busybox crond instead of supercronic](https://git.jonb.io/jblu/seafile-backup/pulls/3) — seafile-backup · 2d ago
-- [Rewrite as an online restic backup](https://git.jonb.io/jblu/seafile-backup/pulls/2) — seafile-backup · 2d ago
+- [chore(projects): drop crane and apprise-client cards](https://git.jonb.io/jblu/jonbio/pulls/15) — jonbio · 2d ago
+- [feat: schedule with busybox crond instead of supercronic](https://git.jonb.io/jblu/seafile-backup/pulls/3) — seafile-backup · 3d ago
+- [Rewrite as an online restic backup](https://git.jonb.io/jblu/seafile-backup/pulls/2) — seafile-backup · 3d ago
 <!-- prs:end -->
 
 ## Recently completed
 
 <!-- completed:start -->
-- Give nanobot a dedicated least-privilege Linux user on each host · 1d ago
-- set up mail in vikunja · 2d ago
-- Decide on gating /v1/docs or rate limiting api.p.jonb.io · 3d ago
+- Give nanobot a dedicated least-privilege Linux user on each host · 2d ago
+- set up mail in vikunja · 3d ago
+- Decide on gating /v1/docs or rate limiting api.p.jonb.io · 4d ago
 <!-- completed:end -->
 
 <sub>regenerated daily by [tools/gen_readme.py](https://git.jonb.io/jblu/.profile)</sub>
